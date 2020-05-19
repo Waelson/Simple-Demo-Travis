@@ -1,3 +1,6 @@
+<img src="https://travis-ci.com/Waelson/Simple-Demo-Travis.svg?branch=master">
+<br/>
+
 # Overview
 This is a very simple, bare-bones NodeJS project created for you to use with Docker.
 
